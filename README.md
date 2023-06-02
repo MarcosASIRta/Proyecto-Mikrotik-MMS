@@ -16,8 +16,9 @@ An in-depth paragraph about your project and overview of use.
 
 ## Instalación física
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* El dispositivo hEX se conecta, desde la interfaz de Internet, directamente a la red local del insitituto mediante un cable Ethernet directo al switch del aula que a su vez se conecta con el router de esta.
+* El dispositivo hAP se conecta a la interfaz 2 del dispositivo hEX desde la interfaz de Internet mediante un cable Ethernet.
+* El PC se conectará a la interfaz 5 de ambos dispotivos a medida que lo requeriramos para configurarlos.
 
 ## Configuración
 
