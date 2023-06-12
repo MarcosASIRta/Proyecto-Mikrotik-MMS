@@ -33,7 +33,7 @@ Para configurar, accederemos a la interfaz 5 de cada router con un cable Etherne
 * Una vez creado el pool, creamos el servidor DHCP donde le asignaremos el bridge 2, el pool creado anteriormente y le ponemos como DNS el 8.8.8.8 y como puerta de enlace la 192.168.10.1.
 * Con esto, ya habremos acabado la configuración del hEX.
 
-###hAP
+### hAP
 
 * Empezaremos configurando la interfaz de Internet asignandole la ip 192.168.0.2/24.
 * A continuación, crearemos dos bridges siendo uno "wifi", el cual contendrá las interfaces Wlan5 y Wlan6, y el otro "bridge2" el cual tendrá las interfaces 2, 3 y 4.
